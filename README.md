@@ -9,3 +9,4 @@ you can download **JSSCstyle.bst** and use it as follows
 \bibliography{mybibfile}
 \bibliographystyle{jsscstyle}
 ```
+![](temp.png)
